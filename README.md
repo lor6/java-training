@@ -1,1 +1,1 @@
-# java training modificat
+# java Maven project
