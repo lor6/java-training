@@ -29,3 +29,10 @@ public class Student {
         }
     }
 }
+
+sunt curios unde salveaza fisierul tau la mine
+
+am dat show in finder si imi apare
+
+The file /@lor6:java-training/src/main/java/com/optaros/training/Student.java does not exist.
+vad ca are si save
